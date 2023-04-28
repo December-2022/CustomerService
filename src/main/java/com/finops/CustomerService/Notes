@@ -1,0 +1,12 @@
+Types of parametres:
+PathVariable
+Requestparametre
+RequestBody
+
+
+Mapping:
+GetMapping - For Getting a resource.
+Postmapping - For creating or modifying a resource.
+Putmapping - for creating a resource.
+Deletemapping - for deleting a resource.
+PatchMapping - for applying a patch for an existing resource.
